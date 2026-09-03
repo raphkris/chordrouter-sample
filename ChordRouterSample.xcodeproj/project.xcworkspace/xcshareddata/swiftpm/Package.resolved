@@ -1,0 +1,15 @@
+{
+  "originHash" : "decfdf5a465b31246407b0f6b2d9a68506af1fe11cf3cee73c48753c7ace28db",
+  "pins" : [
+    {
+      "identity" : "chordrouter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/raphkris/chordrouter.git",
+      "state" : {
+        "revision" : "2c3d70fb308560dbacbc831ae63f0e10a14a19b5",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}

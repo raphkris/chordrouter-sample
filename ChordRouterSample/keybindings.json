@@ -1,0 +1,5 @@
+[
+	{ "key": "cmd+k cmd+s", "command": "app.saveAll" },
+	{ "key": "cmd+k cmd+c", "command": "app.commentLine" },
+	{ "key": "alt+cmd+z",   "command": "app.toggleZen" }
+]
